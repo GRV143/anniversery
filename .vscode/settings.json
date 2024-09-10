@@ -1,0 +1,6 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port":0,
+}
